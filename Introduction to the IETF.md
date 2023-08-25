@@ -37,7 +37,7 @@ The IETF pursues its mission in adherence to the following cardinal principles:
 
 **Open process** Any interested person can participate in the work, know what is being decided, and make his or her voice heard on the issue. Part of this principle is our commitment to making our documents, our Working Group mailing lists, our attendance lists, and our meeting minutes publicly available on the Internet.
 
-**Technical competence** The issues on which the IETF produces its documents are issues where the IETF has the competence needed to speak to them, and that the IETF is willing to listen to technically competent input from any source. Technical competence also means that we expect IETF output to be designed to sound network engineering principles - this is also often referred to as "engineering quality".
+**Technical competence** The issues on which the IETF produces its documents are issues where the IETF has the competence needed to speak to them. The IETF is willing to listen to technically competent input from any source. Technical competence also means that we expect IETF output to be designed to sound network engineering principles - this is also often referred to as "engineering quality".
 
 **Volunteer Core** Our participants and our leadership are people who come to the IETF because they want to do work that furthers the IETF's mission of "making the Internet work better."
 
